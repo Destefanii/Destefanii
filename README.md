@@ -11,16 +11,12 @@ Sou apaixonado por código, dados e pela experiência do usuário, estou sempre 
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Destefanii&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Matheus-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Matheus-SQL" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/2306/2306173.png">
-  <img align="center" alt="Matheus-Airflow" height="40" width="40" src="https://avatars.githubusercontent.com/u/33643075?s=280&v=4">
-  <img align="center" alt="Matheus-Azure" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/2048px-Microsoft_Azure.svg.png">
-  <img align="center" alt="Matheus-AWS" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png">
-  
-  
-  
-  
-  
+  <img align="center" alt="Matheus-Python" height="40" width="120" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img align="center" alt="Matheus-Python" height="40" width="120" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
+  <img align="center" alt="Matheus-SQL" height="40" width="170" src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
+  <img align="center" alt="Matheus-Airflow" height="40" width="160" src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white">
+  <img align="center" alt="Matheus-Azure" height="40" width="140" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white">
+  <img align="center" alt="Matheus-AWS" height="40" width="120" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"> 
   
   <img align="right" alt="Matheus-pic" height="250" style="border-radius:50px;" src="https://media.discordapp.net/attachments/740901999003959338/987164302303690752/ReadyPlayerMe-Avatar-removebg.png?width=676&height=676">
 </div>
