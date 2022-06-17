@@ -1,4 +1,8 @@
 ## Oi sou Matheus Destefani, Engenheiro de dados! 🎲
+
+- Sou engenheiro de dados com 2 anos de experiência na área 
+- 
+
 <div align="center">
   <a href="https://github.com/Destefanii">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Destefanii&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
