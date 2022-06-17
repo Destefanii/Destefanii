@@ -1,7 +1,9 @@
-## Oi sou Matheus Destefani, Engenheiro de dados! 🎲
+## Oi sou Matheus Destefani,Engenheiro de dados! 🎲
 
-- Sou engenheiro de dados com 2 anos de experiência na área 
-- 
+Sou apaixonado por código, dados e pela experiência do usuário, estou sempre estudando para aprender coisas novas e encontrar maneiras de aprimorar minhas habilidades. Meu objetivo é expandir as minhas habilidades como profissional e me desafiar a procurar pelas soluções mais inteligentes. Eu amo aprender e estou sempre aberto a qualquer oportunidade de evoluir tanto profissional quanto pessoal.
+
+- Engenheiro de dados com 2 anos de experiência na área, apaixonado por dados e desenvolvimento de aplicações.
+- XP com diversas clouds, sendo elas Azure, GCP e AWS, focadas na construção de datalakes para empresas de médio e grande porte internacionais.
 
 <div align="center">
   <a href="https://github.com/Destefanii">
@@ -9,13 +11,17 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Destefanii&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Matheus-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Matheus-SQL" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/2306/2306173.png">
+  <img align="center" alt="Matheus-Airflow" height="40" width="40" src="https://avatars.githubusercontent.com/u/33643075?s=280&v=4">
+  <img align="center" alt="Matheus-Azure" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/2048px-Microsoft_Azure.svg.png">
+  <img align="center" alt="Matheus-AWS" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png">
+  
+  
+  
+  
+  
+  
   <img align="right" alt="Matheus-pic" height="250" style="border-radius:50px;" src="https://media.discordapp.net/attachments/740901999003959338/987164302303690752/ReadyPlayerMe-Avatar-removebg.png?width=676&height=676">
 </div>
   
