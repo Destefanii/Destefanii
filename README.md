@@ -2,7 +2,7 @@
 
 Sou apaixonado por código, dados e pela experiência do usuário, estou sempre estudando para aprender coisas novas e encontrar maneiras de aprimorar minhas habilidades. Meu objetivo é expandir as minhas habilidades como profissional e me desafiar a procurar pelas soluções mais inteligentes. Eu amo aprender e estou sempre aberto a qualquer oportunidade de evoluir tanto profissional quanto pessoal.
 
-- Engenheiro de dados com 2 anos de experiência na área, apaixonado por dados e desenvolvimento de aplicações.
+- Engenheiro de dados com 3 anos de experiência na área, apaixonado por dados e desenvolvimento de aplicações.
 - XP com diversas clouds, sendo elas Azure, GCP e AWS, focadas na construção de datalakes para empresas de médio e grande porte internacionais.
 
 <div align="center">
