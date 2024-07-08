@@ -18,7 +18,7 @@ Sou apaixonado por código, dados e pela experiência do usuário, estou sempre 
   <img align="center" alt="Matheus-Azure" height="40" width="140" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white">
   <img align="center" alt="Matheus-AWS" height="40" width="120" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"> 
   
-  <img align="right" alt="Matheus-pic" height="250" style="border-radius:50px;" src="https://media.discordapp.net/attachments/740901999003959338/1255697176768544888/image.png?ex=668d3be0&is=668bea60&hm=07add9cf5f270a8dcc28fbfa247ffd89a01d497c37074ce44c79451e7ba63401&=&format=webp&quality=">
+  <img align="right" alt="Matheus-pic" height="250" style="border-radius:50px;" src="">
 </div>
   
   ##
