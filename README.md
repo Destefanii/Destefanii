@@ -12,7 +12,7 @@ Sou apaixonado por código, dados e pela experiência do usuário, estou sempre 
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Matheus-Python" height="40" width="100" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img align="center" alt="Matheus-Python" height="40" width="40" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
+  <img align="center" alt="Matheus-Python" height="40" width="100" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
   <img align="center" alt="Matheus-SQL" height="40" width="40" src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
   <img align="center" alt="Matheus-Airflow" height="40" width="40" src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white">
   <img align="center" alt="Matheus-Azure" height="40" width="40" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white">
