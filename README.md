@@ -6,7 +6,6 @@ Sou apaixonado por código, dados e pela experiência do usuário, estou sempre 
 - XP com diversas clouds, sendo elas Azure, GCP e AWS, focadas na construção de datalakes para empresas de médio e grande porte internacionais.
 
 
-<div>
   <a href = "mailto:matheus.destefani43@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-destefani/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
@@ -17,4 +16,4 @@ Sou apaixonado por código, dados e pela experiência do usuário, estou sempre 
       <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Destefanii}/count.svg" /></p> 
     <br>
   </div>
-</div>
+
