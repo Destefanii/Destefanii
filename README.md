@@ -5,14 +5,7 @@ Sou apaixonado por código, dados e pela experiência do usuário, estou sempre 
 - Engenheiro de dados com 5 anos de experiência na área, apaixonado por dados e desenvolvimento de aplicações.
 - XP com diversas clouds, sendo elas Azure, GCP e AWS, focadas na construção de datalakes para empresas de médio e grande porte internacionais.
 
-<div align="center">
-  <a href="https://github.com/Destefanii"> 
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Destefanii&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Destefanii&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-  
-  ##
- 
+
 <div>
   <a href = "mailto:matheus.destefani43@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-destefani/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
